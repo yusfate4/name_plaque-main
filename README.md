@@ -1,5 +1,14 @@
 # Name Plaque Application
 
+The deployed link: 
+https://yusfate4.github.io/name_plaque-main/
+
+
+Screenshot of the deployed page:
+
+![name-plaque](https://user-images.githubusercontent.com/65573250/194901016-9cf91e0e-8396-4cc5-b9dc-71903fdcb59e.png)
+
+
 This simple application calculates the cost of a name plaque. The customers are charged based on the length of letters.
 
 Customers would be able to add letters to a plaque; each letter costs $5. Then, when users enter a new letter, we will show them how much it will cost.
